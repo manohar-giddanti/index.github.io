@@ -1,0 +1,40 @@
+#sai{
+    text-align: center;
+}
+#manu{
+    width: 70px;
+    float: right;
+    position: relative;
+    right: 20px;
+    border: 2px solid black;
+    padding: 10px;
+}
+input{
+    border-style:hidden;
+    width: 500px;
+    border-bottom: 1px solid black;
+    
+}
+#king{
+    position:relative;
+    left: 50px;
+}
+li{
+    list-style: none;
+
+}
+#sir{
+    
+    position: relative;
+    right: 50px;
+    float: right;
+}
+table,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+#table{
+    position: relative;
+    left: 100px;
+}
